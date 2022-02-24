@@ -1,0 +1,1 @@
+Identify the problems in this implementation. Then, refactor the code to use the state pattern. What are the benefits of the new implementation?
